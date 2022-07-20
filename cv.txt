@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Nikhil resume</title>
+</head>
+<body>
+<h2 align="center">Resume</h2>
+ 
+<p style="background-color:gray;">Email: nikhilcheriyala22@gmail.com<br>Mobile no: 9963629932</p>
+
+<h3 style="background-color:gray"> Carrer object:</h3>
+<p>I seek challenging opportunities where I can fully use my skills for the success of the organization.</p>
+
+<h3 style="background-color:gray ;">Skills</h3>
+<p>Basic development or scripting experience.<br>Basic knowledge of Html<br>Basic knowledge on CSS</P>
+
+
+<h3 style="background-color:gray">Educational qualification</h3>
+<p>I have done my graduation (B.TECH) at MALLA REDDY ENGINEERING COLLEGE and management sciences in the steam of ECE in 2020 with 56.5%.<br>Completed my Board of intermediate (MPC) at VIJWALA JUNIOR COLLEGE in 2015 with 65.8%.<br>Completed my SSC in BHARATHIYA VIDYALAYAM HIGH SCHOOL in 2013 with 78%</p>
+
+<h3 style="background-color: gray">Project Under taken:</h3>
+<p><b>Title:</b>Underground cable fault detection using ARDIUNO</p>  
+<u><b> Description:</b></u>
+<p>The main aim of the project is to determine the distance of underground cable fault from base station in Kilo meter the proposed system is to find the exact location of the fault.</p>
+<b>Team Size:4</b>
+
+<h3 style="background-color: gray">Strengths</h3>
+<p>Highly motivated and eager to earn new things<br>Ability to intract with all people</p>
+
+<h3 style="background-color:gray">Hobbies</h3>
+<p>playing  cricket<br> outing with family</p>
+
+<h3 style="background-color: gray;padding: auto;">Declaration</h3>
+<p>I hereby declare that all the details furnished above are true to the best of my knowledge and belief. I will close be responsible for any discrepancy found in them.
+Thank you</p>
+
+<p>Date:</p> 
+<p>place:</p> 
+<P align= "right"> (Cheriyala nikhil)</p>
+            
+</body> 
+</html>
